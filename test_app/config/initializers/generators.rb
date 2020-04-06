@@ -1,4 +1,4 @@
-Rails.application.config.generatos do | g |
+Rails.application.config.generators do | g |
   g.helper false
   g.asses false
   g.skip_routes true
