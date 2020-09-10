@@ -1,5 +1,5 @@
 class TopController < ApplicationController
   def index
-    @message = "おはようございます！"
+    @message = "test"
   end
 end
